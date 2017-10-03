@@ -1,0 +1,17 @@
+package pl.tutorial.lewart.design_patterns;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+<<<<<<< HEAD
+        System.out.println( "Hello my patterns!" );
+=======
+        System.out.println( "Hello World!" );
+>>>>>>> 2b415757985e549507a8f0453ac7336504f8cffd
+    }
+}
