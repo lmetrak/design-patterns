@@ -1,0 +1,31 @@
+package pl.tutorial.lewart.design_patterns.patterns.creational.builder.maze;
+
+import pl.tutorial.lewart.design_patterns.patterns.creational.builder.maze.auxiliary.Maze;
+
+public class OtherMazeBuilder implements MazeBuilder {
+
+	@Override
+	public void buildMaze() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void buildRoom(int room) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void buildDoor(int roomFrom, int roomTo) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public Maze getMaze() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
